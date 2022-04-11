@@ -10,6 +10,3 @@ function exec() {
 }
 
 exec()
-
-
-
